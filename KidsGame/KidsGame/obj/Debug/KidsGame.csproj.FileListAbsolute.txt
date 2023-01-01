@@ -1,0 +1,15 @@
+C:\Users\hamza\source\repos\KidsGame\KidsGame\bin\Debug\KidsGame.exe.config
+C:\Users\hamza\source\repos\KidsGame\KidsGame\bin\Debug\KidsGame.exe
+C:\Users\hamza\source\repos\KidsGame\KidsGame\bin\Debug\KidsGame.pdb
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.AssemblyReference.cache
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.AnimalLearn.resources
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.AnimalQuiz.resources
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.AnimalRevision.resources
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.Animals.resources
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.Form1.resources
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.Properties.Resources.resources
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.GenerateResource.cache
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.exe
+C:\Users\hamza\source\repos\KidsGame\KidsGame\obj\Debug\KidsGame.pdb
